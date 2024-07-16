@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Budhiaja</h1>
-<h3 align="center">A full stack developer with a keen interest in open source contibutions</h3>
+<h3 align="center">A developer with a keen interest in Research in trading algorithms</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Crypto & Blockchain Dev**
 
 - 📫 How to reach me **dhruvbudhiraja@outlook.com**
 
